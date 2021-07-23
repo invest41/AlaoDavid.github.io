@@ -1,3 +1,8 @@
+[![GitHub issues](https://img.shields.io/github/issues/invest41/AlaoDavid.github.io)](https://github.com/invest41/AlaoDavid.github.io/issues)
+
+
+
+#### Credit
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
