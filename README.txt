@@ -1,5 +1,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/invest41/AlaoDavid.github.io)](https://github.com/invest41/AlaoDavid.github.io/issues)
-[![GitHub issues](https://img.shields.io/github/issues/invest41/AlaoDavid.github.io)](https://github.com/invest41/AlaoDavid.github.io/issues)
+[![GitHub forks](https://img.shields.io/github/forks/invest41/AlaoDavid.github.io)](https://github.com/invest41/AlaoDavid.github.io/network)
+[![GitHub stars](https://img.shields.io/github/stars/invest41/AlaoDavid.github.io)](https://github.com/invest41/AlaoDavid.github.io/stargazers)
 
 
 #### Credit
