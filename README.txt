@@ -1,9 +1,9 @@
 [![GitHub issues](https://img.shields.io/github/issues/invest41/AlaoDavid.github.io)](https://github.com/invest41/AlaoDavid.github.io/issues)
 [![GitHub forks](https://img.shields.io/github/forks/invest41/AlaoDavid.github.io)](https://github.com/invest41/AlaoDavid.github.io/network)
 [![GitHub stars](https://img.shields.io/github/stars/invest41/AlaoDavid.github.io)](https://github.com/invest41/AlaoDavid.github.io/stargazers)
-
+<br/>
 - [Launch Portfolio](https://invest41.github.io/AlaoDavid.github.io/)
-
+<br/>
 #### Credit
 Massively by HTML5 UP
 html5up.net | @ajlkn
